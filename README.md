@@ -12,11 +12,13 @@ Elementary:
 - Insertion sort (Induction variable based)
 - Bubble sort
 - Shell sort (n / 2^k)
+
 High level:
 - Quick sort (Leftest pivot, Hoare partition)
 - Merge sort
 - Heap sort (Aescending)
 - Heap sort (Descending)
+
 Linear time:
 - LSD Radix sort (r = 2 with masked counting sort)
 - Bucket sort (With heap sort)
